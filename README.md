@@ -27,7 +27,7 @@
 ![image](https://github.com/Windwings0711/code-to-goods/blob/main/img/%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%B7%AF.jpg)
 ![image](https://github.com/Windwings0711/code-to-goods/blob/main/img/%E8%AE%BE%E8%AE%A1%E8%BF%87%E7%A8%8B%EF%BC%8C%E6%88%90%E6%9E%9C%E5%B1%95%E7%A4%BA.jpg)
 ![image](https://github.com/Windwings0711/code-to-goods/blob/main/img/4.jpg)
-
+![image](https://github.com/Windwings0711/code-to-goods/blob/main/img/5.jpg)
 以下为使用说明：
 ## 广告轮播功能
 picture为存放广告的文件夹，轮训播放的广告图片矩阵存储在此。如果希望增加播放图片，请先使用第三方软件提取图像的矩阵，转化为.h文件后直接调用。
